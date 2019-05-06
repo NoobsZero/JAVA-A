@@ -1,2 +1,0 @@
- 8. 数组有没有length（）这个方法？String有没有length（）这个方法？
-    答：数组没有，String有。
