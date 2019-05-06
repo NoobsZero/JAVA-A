@@ -1,0 +1,2 @@
+6. String s = new String（"xyz"）;创建了几个String Object?
+    答：创建了两个，一个字符对象，一个引用对象。
