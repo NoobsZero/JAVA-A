@@ -1,0 +1,2 @@
+12. 是否可以继承String类？
+    答：String类是final类所以不可以继承。
