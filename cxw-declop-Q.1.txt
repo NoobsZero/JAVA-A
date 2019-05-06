@@ -1,2 +1,0 @@
-1. float型float f=3.4是否正确？
-    答：不正确，应为float f=3.4f
