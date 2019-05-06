@@ -1,0 +1,2 @@
+11. 构造器Constructor是否可被override?
+    答：可以。
