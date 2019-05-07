@@ -1,8 +1,0 @@
-21. 介绍Java中的Collection框架结构。
-    < >Collection
-    < >Set
-    < >List
-    HashSet
-    Tree set
-    ArrayList
-    Vector 
