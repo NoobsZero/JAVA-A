@@ -1,0 +1,2 @@
+﻿18. STRING与STRINGBUFFER的区别。
+    答：STRING的长度是不可变的，一旦一个String对象被创建，包含在这个实例中的内容（“字符串”）不可以被更改，直至这个对象被销毁，因此，指向一个String对象的变量实质上是一个常量，String对象也被称为常量对象；STRINGBUFFER的长度是可变的，可以通过StringBuffer的append（）、insert（）、reverse（）、setCharAt（）、setLength（）等方法，可以对这个字符串中的内容修改。如果你对字符串中的内容经常进行操作，特别是内容要修改时，那么使用StringBuffer，如果最后需要String，那么使用StringBuffer的toString（）方法。
