@@ -1,2 +1,0 @@
-19. Java类实现序例化的方法是？
-    答：Java类要实现序列化，对应的类必须先实现Serializable和Externalizable这两种接口，然后就可以调用ObjectOutputStream的witeObject（）方法来保存对象以及通过ObjeatInputStream的readObjeact（）方法来读取保存的对象。
